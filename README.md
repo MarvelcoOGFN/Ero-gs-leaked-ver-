@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/8c265350-d49e-4e83-8a30-dc241624fe2f)
 
+# This gs code leaked by fortOGFN and Dimiraku (honestly idc cause its not even latest and its missing alot of stuff cause i have commited 35 commits since with alot of bug fixes so get wrecked)
 
 Ero gameserver s12 is some what of a rewrite of Eon gameserver thats fixes all the bugs/add stuff and makes its 1:1.
 
